@@ -17,3 +17,12 @@ typeOf = 82;
   // output >> "number"
 typeOf = true;
   // output >> "boolean"
+
+
+// indexOf is a method that returns the first instance of that charcter in the string 
+"ALOHA".indexOf("H");
+  // returns 3
+"ALOHA".indexOf("Q");
+  // returns -1; because it's not in the string. 
+"ALOHA".indexOf("l");
+  // this is case sensitive; so it returns -1. 
