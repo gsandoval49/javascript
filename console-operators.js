@@ -26,3 +26,6 @@ typeOf = true;
   // returns -1; because it's not in the string. 
 "ALOHA".indexOf("l");
   // this is case sensitive; so it returns -1. 
+
+// append function adds on to a string at the end. It only adds and doesn't delete 
+document.getElementById("nameOfYourElement").append("Your appended string goes here.")
