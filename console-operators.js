@@ -9,7 +9,7 @@ document.title.includes("Example Title Here");
 document.querySelector("someNodeHere").textContent;
 
 // typeOf operator returns what a data type is
-// for ex... boolean, number, string, etc. 
+// for ex... boolean, number, string, etc. ; it returns a string always
 console.log(typeof("yourVariableOrDataTypeHere"));
   // this should output "string" 
 // or you can leave out "console.log" if you're in web tools and just place "typeOf"
@@ -34,4 +34,5 @@ document.getElementById("nameOfYourElement").append("Your appended string goes h
 "ALOHA"[3]
   // >>> OUTPUTS "H";
 
-// includes 
+// includes method does a case sensitive search for a string
+"ALOHA".includes("HA")
