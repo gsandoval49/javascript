@@ -32,4 +32,4 @@ document.getElementById("nameOfYourElement").append("Your appended string goes h
 
 // [] following a string shows me the character of a string
 "ALOHA"[3]
-  // >>> OUTPUTS "H"
+  // >>> OUTPUTS "H";
