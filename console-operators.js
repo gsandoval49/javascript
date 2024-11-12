@@ -29,3 +29,7 @@ typeOf = true;
 
 // append function adds on to a string at the end. It only adds and doesn't delete 
 document.getElementById("nameOfYourElement").append("Your appended string goes here.")
+
+// [] following a string shows me the character of a string
+"ALOHA"[3]
+  // >>> OUTPUTS "H"
