@@ -36,3 +36,7 @@ document.getElementById("nameOfYourElement").append("Your appended string goes h
 
 // includes method does a case sensitive search for a string
 "ALOHA".includes("HA")
+
+answerToLife = 100;
+answerToLife - 10;
+// >> 90
