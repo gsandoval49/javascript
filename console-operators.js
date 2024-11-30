@@ -40,3 +40,8 @@ document.getElementById("nameOfYourElement").append("Your appended string goes h
 answerToLife = 100;
 answerToLife - 10;
 // >> 90
+
+// for statement
+for (let character of "string") {
+    console.log(character);
+}
