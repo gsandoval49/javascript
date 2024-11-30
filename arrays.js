@@ -5,3 +5,6 @@ synonyms[2] // returns cornucopia
 // pop() function will take the last item in the array and assign the value to lastItem
 let lastItem = synonyms.pop();
 synonyms.length // pop() also takes out last item, so now only 2 items in array
+
+synonyms.push("multitude"); // adds to the end of array 
+
