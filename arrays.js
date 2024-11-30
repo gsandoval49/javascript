@@ -8,3 +8,14 @@ synonyms.length // pop() also takes out last item, so now only 2 items in array
 
 synonyms.push("multitude"); // adds to the end of array 
 
+// javascript will behave differently, look out for how it behaves
+["lonely"][0]
+// 'lonely'
+"lonely"[0]
+//'l'
+"lonely"[1]
+//'o'
+"lonely"[2]
+//'n'
+"lonely"[3]
+//'e'
