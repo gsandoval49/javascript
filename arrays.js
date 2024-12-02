@@ -19,3 +19,7 @@ synonyms.push("multitude"); // adds to the end of array
 //'n'
 "lonely"[3]
 //'e'
+
+// sort() method
+['d', 'a', 'b'].sort();
+// returns letters sorted a,b,d
