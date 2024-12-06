@@ -23,3 +23,7 @@ synonyms.push("multitude"); // adds to the end of array
 // sort() method
 ['d', 'a', 'b'].sort();
 // returns letters sorted a,b,d
+
+let synonyms = ["plethora", "array", "cornucopia"];
+synonyms[1] // outputs array 
+synonyms.indexOf("cornucopia")// outputs  "2"
